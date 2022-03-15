@@ -1,24 +1,21 @@
-# hello-world
+# タイピングゲーム
+公開URL  
+https://unityroom.com/games/gyougigame0988
 
-## Project setup
-```
-npm install
-```
+## アプリの概要
+ことわざですタイピングゲーム
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## 使用技術一覧・選定理由
+vue.jsでのみで実装  
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 作った動機
+タイピングゲームを自分でオリジナルのものを作ってみたかったから。
+また、vue.jsの基本機能を練習するために作った。
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 機能一覧
+* 問題数を選択
+* 基本的なタイピングゲーム要素
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## こだわった点・苦労した
+・問題数を選択できて、モード選択をできるようにしたこと。
+
